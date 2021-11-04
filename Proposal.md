@@ -1,9 +1,9 @@
 
-# Sentiment Analysis of Airbnb Reviews
+# Analysis of Airbnb Reviews
 
 ## Question/Need
 
-This project will explore Airbnb reviews to provide additional, more descriptive keywords/ filters to travellers so that they would find an Airbnb that fits their needs. The findings would eveal what Airbnb users most care about the house. In other words, I will explore which listings properties like neighboorhood, cleanness, safety, house amenities lead to a good/bad experience based on overall customer reviews. Lastly, the analysis provide more insight beyond original numeric ratings.
+This project will explore Airbnb reviews to provide additional, more descriptive keywords/ filters to travellers so that they would find an Airbnb that fits their needs. The findings would reveal what Airbnb users most care about the house. In other words, I will explore which listings properties -neighboorhood, cleanliness, safety, house amenities and etc- lead to a good/bad experience based on overall customer reviews. Lastly, the analysis provide more insight beyond original numeric ratings.
  
 
 ## Data 
