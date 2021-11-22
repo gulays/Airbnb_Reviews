@@ -65,8 +65,46 @@ Topics
 - Listing Accuracy
 
 
+### Topics with the highest marginal distribution 
+
+House Related Topics:
+
+- Rental interior
+
+- Kitchen
+
+- Overall experience
+
+- Bed/Bathroom
+
+Location Related Topics :
+
+- Transportation 
+
+- Dining, social attractions
+
+- Kid friendly, safe
+
+Host and Listing Related Topics:
+
+- Hospitality  
+
+- Responsiveness
+
+- Listing 
+
+
+###  Reviews : Sentiment Analysis/ VaderSentiment 
+
+VaderSentiment Analysis is applied to detect negative and positive reviews. It is found that most guest had pleasant experiences during their Airbnb stays as review sentiment scores are highly positives. Most common words in negative and positive reviews are revealed that host attitude, being close to subway and cleanliness are the top topics talked in reviews. 
 
 
 
-- Tools: Pandas, Numpy, langdetect, NLTK, Matplotlib, Seaborn, sklearn, pyLDAvis
 
+## Tools
+
+Pandas, Numpy, langdetect, NLTK, Matplotlib, Seaborn, sklearn, pyLDAvis
+
+## Communication
+
+AirbnbReviews_presentation.pdf is the presentation of the project. Airbnb.ipynb is the final Jupyter notebook.
